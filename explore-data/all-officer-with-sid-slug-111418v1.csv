@@ -1,0 +1,462 @@
+location,lat,lng,value,slug
+"Camden, Camden County",39.9259463,-75.1196199,3221,camden-camden
+"Atlantic City, Atlantic County",39.3642834,-74.4229266,2867,atlantic-city-atlantic
+"Newark, Essex County",40.735657,-74.1723667,2580,newark-essex
+"Paterson, Passaic County",40.9167654,-74.171811,1873,paterson-passaic
+"Elizabeth, Union County",40.6639916,-74.2107006,1674,elizabeth-union
+"Vineland, Cumberland County",39.4863773,-75.0259637,1639,vineland-cumberland
+"NJSP, State Police",39.955934,-74.9197354,1447,
+"Toms River, Ocean County",39.9537358,-74.1979458,1161,toms-river-ocean
+"Trenton, Mercer County",40.2205824,-74.759717,1149,trenton-mercer
+"Jersey City, Hudson County",40.7177545,-74.0431435,1091,jersey-city-hudson
+"Gloucester, Camden County",39.7933809,-75.0494329,895,gloucester-camden
+"Perth Amboy, Middlesex County",40.5067723,-74.2654234,875,perth-amboy-middlesex
+"Lakewood, Ocean County",40.082129,-74.2097014,800,lakewood-ocean
+"Bayonne, Hudson County",40.6687141,-74.1143091,769,bayonne-hudson
+"New Brunswick, Middlesex County",40.4862157,-74.4518188,747,new-brunswick-middlesex
+"Hamilton, Mercer County",40.2115109,-74.6796651,744,hamilton-mercer
+"Asbury Park, Monmouth County",40.2203907,-74.0120817,725,asbury-park-monmouth
+"Glassboro, Gloucester County",39.7028923,-75.1118422,710,glassboro-gloucester
+"East Orange, Essex County",40.767323,-74.2048677,702,east-orange-essex
+"Irvington, Essex County",40.7263249,-74.2286435,681,irvington-essex
+"Millville, Cumberland County",39.4020596,-75.0393438,670,millville-cumberland
+"Neptune Township, Monmouth County",40.2091219,-74.0386271,660,neptune-township-monmouth
+"Woodbridge, Middlesex County",40.5575986,-74.2846022,612,woodbridge-middlesex
+"Long Branch, Monmouth County",40.3042778,-73.9923596,612,long-branch-monmouth
+"Passaic, Passaic County",40.8567662,-74.1284764,603,passaic-passaic
+"Clifton, Passaic County",40.8584328,-74.1637553,598,clifton-passaic
+"Hoboken, Hudson County",40.7439905,-74.0323626,569,hoboken-hudson
+"West New York, Hudson County",40.7878788,-74.0143064,560,west-new-york-hudson
+"Edison, Middlesex County",40.5187154,-74.4120953,559,edison-middlesex
+"Union township, Union County",40.6975898,-74.2631635,539,union-township-union
+"Evesham, Burlington County",39.8522951,-74.8857989,531,evesham-burlington
+"Bridgeton City, Cumberland County",39.427337,-75.2340768,477,bridgeton-city-cumberland
+"Egg Harbor Township, Atlantic County",39.3822537,-74.6166192,472,egg-harbor-township-atlantic
+"Howell, Monmouth County",40.1645785,-74.2082671,467,howell-monmouth
+"Wildwood, Cape May County",38.9917797,-74.8148894,457,wildwood-cape-may
+"Bloomfield, Essex County",40.8067546,-74.1854209,457,bloomfield-essex
+"Brick, Ocean County",40.0578384,-74.1371832,430,brick-ocean
+"Belleville, Essex County",40.7936744,-74.1500469,419,belleville-essex
+"Cherry Hill, Camden County",39.926813,-75.0246312,405,cherry-hill-camden
+"Lawrence, Mercer County",40.2778055,-74.7294313,390,lawrence-mercer
+"Lindenwold, Camden County",39.8201681,-74.9851678,387,lindenwold-camden
+"Middletown, Monmouth County",40.3968012,-74.0915982,381,middletown-monmouth
+"Jackson, Ocean County",40.0918895,-74.3587473,376,jackson-ocean
+"Roselle, Union County",40.6527292,-74.2592769,372,roselle-union
+"Linden, Union County",40.6220478,-74.2445902,369,linden-union
+"Winslow, Camden County",39.6573556,-74.8623203,367,winslow-camden
+"Point Pleasant Beach, Ocean County",40.0912268,-74.0479146,366,point-pleasant-beach-ocean
+"Manchester, Ocean County",39.9711696,-74.3392821,360,manchester-ocean
+"Union City, Hudson County",40.7795455,-74.0237512,360,union-city-hudson
+"Maplewood, Essex County",40.7299793,-74.271992,337,maplewood-essex
+"Hackensack, Bergen County",40.8859325,-74.0434736,323,hackensack-bergen
+"Teaneck, Bergen County",40.8932469,-74.0116536,322,teaneck-bergen
+"Galloway, Atlantic County",39.4928235,-74.5596879,319,galloway-atlantic
+"Voorhees, Camden County",39.8519447,-74.961517,316,voorhees-camden
+"Seaside Heights, Ocean County",39.944285,-74.0729139,308,seaside-heights-ocean
+"Deptford, Gloucester County",39.8227054,-75.1195107,306,deptford-gloucester
+"Red Bank, Monmouth County",40.3470543,-74.0643065,305,red-bank-monmouth
+"Washington, Gloucester County",39.7561387,-75.0727956,301,washington-gloucester
+"Pleasantville, Atlantic County",39.3898388,-74.5240422,288,pleasantville-atlantic
+"Orange, Essex County",40.7706187,-74.2326478,286,orange-essex
+"Pemberton, Burlington County",39.9720578,-74.6829363,285,pemberton-burlington
+"Fort Lee, Bergen County",40.8509333,-73.9701381,280,fort-lee-bergen
+"Pennsauken, Camden County",39.9562052,-75.058009,276,pennsauken-camden
+"Paramus, Bergen County",40.9445428,-74.0754189,271,paramus-bergen
+"North Plainfield, Somerset County",40.6301025,-74.4273743,270,north-plainfield-somerset
+"Mount Holly, Burlington County",39.9931438,-74.7879393,267,mount-holly-burlington
+"Carteret, Middlesex County",40.5773266,-74.2282005,258,carteret-middlesex
+"Ewing, Mercer County",40.2599864,-74.7909125,255,ewing-mercer
+"Cliffside Park, Bergen County",40.8214894,-73.9876388,255,cliffside-park-bergen
+"Somerville, Somerset County",40.5742696,-74.60988,252,somerville-somerset
+"Nutley, Essex County",40.8223168,-74.1598725,250,nutley-essex
+"East Brunswick, Middlesex County",40.4316955,-74.4049778,246,east-brunswick-middlesex
+"Monroe, Gloucester County",39.6747922,-74.9910112,244,monroe-gloucester
+"Bridgewater, Somerset County",40.5939636,-74.6049061,241,bridgewater-somerset
+"Garfield, Bergen County",40.8814882,-74.113198,234,garfield-bergen
+"Willing Boro, Burlington County",40.028848,-74.8916458,228,willing-boro-burlington
+"Hamilton, Atlantic County",39.4941863,-74.7347674,224,hamilton-atlantic
+"Plainfield, Union County",40.6337136,-74.4073736,222,plainfield-union
+"Dover, Morris County",40.883988,-74.5621025,221,dover-morris
+"Little Egg Harbor, Ocean County",39.6108492,-74.3572646,219,little-egg-harbor-ocean
+"North Bergen, Hudson County",40.8042674,-74.012084,216,north-bergen-hudson
+"North Wildwood, Cape May County",39.0006686,-74.799333,214,north-wildwood-cape-may
+"Secaucus, Hudson County",40.7895453,-74.0565298,213,secaucus-hudson
+"Franklin, Somerset County",40.4933734,-74.5228916,211,franklin-somerset
+"Gloucester City, Camden County",39.8917799,-75.1162863,211,gloucester-city-camden
+"Lacey, Ocean County",39.8726184,-74.2951444,204,lacey-ocean
+"West Orange, Essex County",40.7985699,-74.2390828,199,west-orange-essex
+"South River, Middlesex County",40.446495,-74.3859831,198,south-river-middlesex
+"Sayreville, Middlesex County",40.4594021,-74.360846,191,sayreville-middlesex
+"Ocean Township, Monmouth County",40.2479729,-74.029843,186,ocean-township-monmouth
+"Morristown, Morris County",40.7967667,-74.4815438,185,morristown-morris
+"Hopatcong, Sussex County",40.9328762,-74.6593281,182,hopatcong-sussex
+"Eatontown, Monmouth County",40.2962222,-74.0509725,180,eatontown-monmouth
+"North Brunswick, Middlesex County",40.4525163,-74.4766712,180,north-brunswick-middlesex
+"Pine Hill, Camden County",39.7842813,-74.9921108,179,pine-hill-camden
+"East Windsor, Mercer County",40.2677539,-74.5402506,178,east-windsor-mercer
+"Middle, Cape May County",39.1201616,-74.8451915,173,middle-cape-may
+"Maple Shade, Burlington County",39.9526127,-74.9923915,173,maple-shade-burlington
+"Berkeley, Ocean County",39.8971996,-74.1827119,171,berkeley-ocean
+"Wall, Monmouth County",40.1606666,-74.0679753,170,wall-monmouth
+"Parsippany, Morris County",40.8652865,-74.4173877,168,parsippany-morris
+"Burlington City, Burlington County",40.071222,-74.8648873,165,burlington-city-burlington
+"Mount Laurel, Burlington County",39.934002,-74.8909988,165,mount-laurel-burlington
+"Montclair, Essex County",40.8259007,-74.2090053,163,montclair-essex
+"West Deptford, Gloucester County",39.8318378,-75.1895576,163,west-deptford-gloucester
+"Kearny, Hudson County",40.7684342,-74.1454214,159,kearny-hudson
+"Belmar, Monmouth County",40.1784471,-74.0218037,158,belmar-monmouth
+"Ocean City, Cape May County",39.2776156,-74.5746001,154,ocean-city-cape-may
+"Hillsborough, Somerset County",40.5106322,-74.6472522,152,hillsborough-somerset
+"Aberdeen, Monmouth County",40.4170948,-74.2221155,151,aberdeen-monmouth
+"Hillside, Union County",40.6955044,-74.2287333,149,hillside-union
+"Pennsville, Salem County",39.6284514,-75.4984978,148,pennsville-salem
+"Bound Brook, Somerset County",40.5684363,-74.5384889,144,bound-brook-somerset
+"Stafford, Ocean County",39.7046713,-74.2632784,141,stafford-ocean
+"Cranford, Union County",40.6584212,-74.2995928,138,cranford-union
+"South Plainfield, Middlesex County",40.5792701,-74.4115401,136,south-plainfield-middlesex
+"Roxbury, Morris County",40.8693272,-74.663464,136,roxbury-morris
+"Tinton Falls, Monmouth County",40.3042773,-74.1004185,135,tinton-falls-monmouth
+"Ridgewood, Bergen County",40.9792645,-74.1165313,133,ridgewood-bergen
+"Barnegat, Ocean County",39.7649223,-74.2693297,133,barnegat-ocean
+"Plainsboro, Middlesex County",40.3382543,-74.585292,130,plainsboro-middlesex
+"Paulsboro, Gloucester County",39.830391,-75.2404607,129,paulsboro-gloucester
+"Salem City, Salem County",39.5717796,-75.4671423,129,salem-city-salem
+"Elmwood Park, Bergen County",40.9039878,-74.118476,129,elmwood-park-bergen
+"Woodbury, Gloucester County",39.8381691,-75.1526774,128,woodbury-gloucester
+"South Brunswick, Middlesex County",40.3806901,-74.5316938,128,south-brunswick-middlesex
+"Lyndhurst, Bergen County",40.8120171,-74.1243063,127,lyndhurst-bergen
+"Mount Olive, Morris County",40.8514881,-74.7329411,124,mount-olive-morris
+"Sea Isle City, Cape May County",39.1534477,-74.6929387,124,sea-isle-city-cape-may
+"Haledon, Passaic County",40.935654,-74.186256,123,haledon-passaic
+"Ramsey, Bergen County",41.0573188,-74.1409771,122,ramsey-bergen
+"Rahway, Union County",40.6081591,-74.2776468,122,rahway-union
+"Fairfield, Essex County",40.8837406,-74.3059959,120,fairfield-essex
+"Hammonton, Atlantic County",39.6365056,-74.8023853,119,hammonton-atlantic
+"Marlboro, Monmouth County",40.3380949,-74.2687291,118,marlboro-monmouth
+"Wayne, Passaic County",40.9253725,-74.2765441,118,wayne-passaic
+"Clark, Union County",40.6278031,-74.3127631,114,clark-union
+"Edgewater, Bergen County",40.8270448,-73.975694,113,edgewater-bergen
+"Pompton Lakes, Passaic County",41.0053753,-74.2907041,113,pompton-lakes-passaic
+"Riverside, Burlington County",40.0323338,-74.9573908,112,riverside-burlington
+"Manalapan, Monmouth County",40.2859203,-74.348582,112,manalapan-monmouth
+"Point Pleasant, Ocean County",40.0831714,-74.0681931,110,point-pleasant-ocean
+"Hopewell twp, Mercer County",40.343784,-74.8156199,110,hopewell-twp-mercer
+"Hazlet, Monmouth County",40.4289526,-74.1650991,109,hazlet-monmouth
+"Bordentown Town, Burlington County",40.1462213,-74.7118264,108,bordentown-town-burlington
+"Ridgefield Park, Bergen County",40.8570442,-74.0215285,107,ridgefield-park-bergen
+"Dunellen, Middlesex County",40.5892696,-74.4718201,107,dunellen-middlesex
+"Roselle Park, Union County",40.6645469,-74.2643133,106,roselle-park-union
+"Manasquan, Monmouth County",40.1136928,-74.0376355,105,manasquan-monmouth
+"Madison, Morris County",40.7598227,-74.417097,105,madison-morris
+"South Orange, Essex County",40.7489277,-74.2609903,104,south-orange-essex
+"Mantua, Gloucester County",39.7818322,-75.1821597,104,mantua-gloucester
+"Freehold Boro, Monmouth County",40.260111,-74.2737573,104,freehold-boro-monmouth
+"Randolph, Morris County",40.8478065,-74.5747248,103,randolph-morris
+"Monroe, Middlesex County",40.336419,-74.4330474,102,monroe-middlesex
+"Harrison, Hudson County",40.7464901,-74.1562551,102,harrison-hudson
+"Washington Township, Warren County",40.7699173,-74.988468,101,washington-township-warren
+"Englewood, Bergen County",40.8928771,-73.9726381,100,englewood-bergen
+"Keansburg, Monmouth County",40.4417743,-74.1298643,97,keansburg-monmouth
+"Lower Township, Cape May County",38.9745287,-74.9003335,97,lower-township-cape-may
+"Robbinsville, Mercer County",40.2162036,-74.6195327,95,robbinsville-mercer
+"Beachwood, Ocean County",39.9390069,-74.1929188,94,beachwood-ocean
+"Penns Grove, Salem County",39.7295581,-75.4679734,94,penns-grove-salem
+"Fairlawn, Bergen County",40.9403762,-74.1318096,93,fairlawn-bergen
+"Franklin Township, Gloucester County",39.600156,-75.0377502,92,franklin-township-gloucester
+"Wharton, Morris County",40.8931546,-74.5818254,91,wharton-morris
+"Burlington Town, Burlington County",40.071222,-74.8648873,90,burlington-town-burlington
+"Highland Park, Middlesex County",40.4959379,-74.4243178,89,highland-park-middlesex
+"Lumberton, Burlington County",39.9676482,-74.8003877,87,lumberton-burlington
+"Middlesex, Middlesex County",40.572603,-74.4926541,87,middlesex-middlesex
+"Barrington, Camden County",39.8648357,-75.0551714,87,barrington-camden
+"Wyckoff, Bergen County",41.0095316,-74.1729106,86,wyckoff-bergen
+"Stratford, Camden County",39.8267807,-75.0154461,86,stratford-camden
+"Bradley Beach, Monmouth County",40.2023354,-74.0120814,86,bradley-beach-monmouth
+"Bernards, Somerset County",40.6669335,-74.5580454,85,bernards-somerset
+"Morris Township, Morris County",40.7933833,-74.505312,85,morris-township-morris
+"Cinnaminson, Burlington County",39.9969646,-74.9927693,85,cinnaminson-burlington
+"Phillipsburg, Warren County",40.6937099,-75.1901761,84,phillipsburg-warren
+"Sea Girt, Monmouth County",40.1320592,-74.0345813,84,sea-girt-monmouth
+"Bergenfield, Bergen County",40.9275987,-73.9973608,83,bergenfield-bergen
+"Westfield, Union County",40.6589912,-74.3473717,82,westfield-union
+"Westhampton, Burlington County",40.0205975,-74.7922202,82,westhampton-burlington
+"Livingston, Essex County",40.7862871,-74.3300842,81,livingston-essex
+"Woodland Park, Passaic County",40.8898212,-74.1948674,81,woodland-park-passaic
+"Newton, Sussex County",41.0581527,-74.7526651,81,newton-sussex
+"Palmyra, Burlington County",40.0070565,-75.0282271,81,palmyra-burlington
+"Guttenberg, Hudson County",40.7920454,-74.0037505,80,guttenberg-hudson
+"Caldwell, Essex County",40.8398218,-74.2765366,80,caldwell-essex
+"Old Bridge, Middlesex County",40.4128551,-74.307282,78,old-bridge-middlesex
+"Lodi, Bergen County",40.8823215,-74.0831971,78,lodi-bergen
+"Freehold, Monmouth County",40.2136754,-74.3000878,78,freehold-monmouth
+"Holmdel, Monmouth County",40.3451095,-74.1840322,78,holmdel-monmouth
+"Matawan, Monmouth County",40.41483,-74.2295891,77,matawan-monmouth
+"Glen Ridge, Essex County",40.805378,-74.2037566,76,glen-ridge-essex
+"Green Brook, Somerset County",40.6049167,-74.4851659,75,green-brook-somerset
+"Waterford, Camden County",39.771287,-74.886909,74,waterford-camden
+"Boonton, Morris County",40.904019,-74.4087405,73,
+"Carney_s Point, Salem County",39.7111989,-75.4701443,73,carney-s-point-salem
+"Hawthorne, Passaic County",40.9492649,-74.1537549,73,hawthorne-passaic
+"Ventnor City, Atlantic County",39.3403942,-74.4773735,73,ventnor-city-atlantic
+"Montville, Morris County",40.9148209,-74.383763,73,montville-morris
+"Delran, Burlington County",40.0158918,-74.9564247,72,delran-burlington
+"Manville, Somerset County",40.5409367,-74.5876569,72,manville-somerset
+"Vernon, Sussex County",41.1947018,-74.4937943,72,vernon-sussex
+"Fairview, Bergen County",40.8126006,-73.999028,71,fairview-bergen
+"South Amboy, Middlesex County",40.4778838,-74.290702,71,south-amboy-middlesex
+"Jefferson, Morris County",41.0029893,-74.5580454,71,jefferson-morris
+"Cape May, Cape May County",38.9351125,-74.9060053,71,cape-may-cape-may
+"Princeton, Mercer County",40.3572976,-74.6672226,69,princeton-mercer
+"Ocean Township, Ocean County",39.7904391,-74.2176448,68,ocean-township-ocean
+"Mahwah, Bergen County",41.0886216,-74.1435843,68,mahwah-bergen
+"Hanover, Morris County",40.8257746,-74.4173877,68,hanover-morris
+"North Arlington, Bergen County",40.788434,-74.1331988,67,north-arlington-bergen
+"Denville, Morris County",40.8923212,-74.4773775,66,denville-morris
+"Westwood, Bergen County",40.9912087,-74.0326395,66,westwood-bergen
+"Branchburg, Somerset County",40.5868114,-74.6985891,66,branchburg-somerset
+"Flemington, Hunterdon County",40.5123258,-74.8593318,65,flemington-hunterdon
+"Clementon, Camden County",39.8115033,-74.9829443,65,clementon-camden
+"Berlin Boro, Camden County",39.7912261,-74.9290536,64,berlin-boro-camden
+"Bellmawr, Camden County",39.8676134,-75.0946182,64,bellmawr-camden
+"Rutherford, Bergen County",40.826489,-74.1068091,63,rutherford-bergen
+"Spotswood, Middlesex County",40.391774,-74.3984834,62,spotswood-middlesex
+"Seaside Park, Ocean County",39.9267852,-74.0770806,59,seaside-park-ocean
+"Highlands Boro, Monmouth County",40.40372,-73.991527,59,highlands-boro-monmouth
+"Rochelle Park, Bergen County",40.9073328,-74.0751273,59,rochelle-park-bergen
+"Westville, Gloucester County",39.8678912,-75.1315649,58,westville-gloucester
+"Neptune City, Monmouth County",40.2005472,-74.0314165,58,neptune-city-monmouth
+"West Windsor, Mercer County",40.2983262,-74.618634,58,west-windsor-mercer
+"Absecon, Atlantic County",39.4284503,-74.4957076,58,absecon-atlantic
+"Clayton, Gloucester County",39.6601148,-75.0921197,58,clayton-gloucester
+"Sea Bright, Monmouth County",40.3614987,-73.9740262,57,sea-bright-monmouth
+"Ringwood, Passaic County",41.1134289,-74.2454254,57,ringwood-passaic
+"Somers Point, Atlantic County",39.3160641,-74.6053047,57,somers-point-atlantic
+"Ocean Port, Monmouth County",40.3181663,-74.0151382,57,ocean-port-monmouth
+"Little Falls, Passaic County",40.8690101,-74.2082286,55,little-falls-passaic
+"Wildwood Crest, Cape May County",38.9748351,-74.8335015,55,wildwood-crest-cape-may
+"Weehawken, Hudson County",40.7663711,-74.0253715,54,weehawken-hudson
+"Bogota, Bergen County",40.8762106,-74.0298621,54,bogota-bergen
+"Hightstown, Mercer County",40.2695538,-74.5232089,54,hightstown-mercer
+"Florence, Burlington County",40.0967369,-74.7863387,54,florence-burlington
+"Scotch Plains, Union County",40.6400404,-74.369018,53,scotch-plains-union
+"Long Beach Township, Ocean County",39.6155009,-74.199545,53,long-beach-township-ocean
+"Beverly, Burlington County",40.0653889,-74.9190558,52,beverly-burlington
+"Brooklawn, Camden County",39.8795177,-75.1209704,52,brooklawn-camden
+"Pequannock, Morris County",40.960201,-74.2973239,52,pequannock-morris
+"Woodlynne, Camden County",39.916311,-75.094695,52,
+"Collingswood, Camden County",39.9181686,-75.071284,52,collingswood-camden
+"Raritan, Somerset County",40.5695474,-74.6329363,51,raritan-somerset
+"Bloomingdale, Passaic County",41.002042,-74.3265388,50,bloomingdale-passaic
+"Brigantine Beach, Atlantic County",39.4020614,-74.3668129,49,brigantine-beach-atlantic
+"Stanhope, Sussex County",40.9028765,-74.7090517,49,stanhope-sussex
+"South Boundbrook, Somerset County",40.5534364,-74.531544,49,south-boundbrook-somerset
+"Maywood, Bergen County",40.902599,-74.0618074,48,maywood-bergen
+"Moorestown, Burlington County",39.9688817,-74.948886,48,moorestown-burlington
+"Deal, Monmouth County",40.243168,-74.0006927,48,deal-monmouth
+"Buena Borough, Atlantic County",39.5314776,-74.9384135,48,buena-borough-atlantic
+"Metuchen, Middlesex County",40.5431598,-74.3632049,47,metuchen-middlesex
+"Lake Como Boro, Monmouth County",40.1707443,-74.0274216,47,lake-como-boro-monmouth
+"Carlstadt, Bergen County",40.8403778,-74.0906974,46,carlstadt-bergen
+"Rockaway Twp, Morris County",40.9300943,-74.4872422,46,rockaway-twp-morris
+"Little Silver, Monmouth County",40.3367768,-74.0470837,46,little-silver-monmouth
+"Little Ferry, Bergen County",40.8528777,-74.0420848,46,little-ferry-bergen
+"Cedar Grove, Essex County",40.8517876,-74.2290319,45,cedar-grove-essex
+"Greenwich, Gloucester County",39.8200838,-75.2618666,45,greenwich-gloucester
+"Lakehurst, Ocean County",40.014561,-74.3112574,45,lakehurst-ocean
+"Mount Ephraim, Camden County",39.8784465,-75.0926738,45,mount-ephraim-camden
+"South Toms River, Ocean County",39.9420625,-74.2043082,45,south-toms-river-ocean
+"Egg Harbor City, Atlantic County",39.5287282,-74.6479364,44,egg-harbor-city-atlantic
+"Edgewater Park, Burlington County",40.0681666,-74.9007218,43,edgewater-park-burlington
+"Clinton Township, Hunterdon County",40.6306905,-74.8684564,43,clinton-township-hunterdon
+"Mansfield, Warren County",40.8217167,-74.8974925,43,mansfield-warren
+"Springfield, Union County",40.7016937,-74.3222146,41,springfield-union
+"Medford, Burlington County",39.8661826,-74.8390162,41,medford-burlington
+"Dumont, Bergen County",40.9406541,-73.9968051,40,dumont-bergen
+"Park Ridge, Bergen County",41.0375968,-74.0406956,39,park-ridge-bergen
+"Stone Harbor Borough, Cape May County",39.0464066,-74.7643608,38,stone-harbor-borough-cape-may
+"Somerdale, Camden County",39.8440027,-75.0226691,38,somerdale-camden
+"West Long Branch, Monmouth County",40.2903891,-74.0176381,37,west-long-branch-monmouth
+"Berlin township, Camden County",39.8008256,-74.9150313,37,berlin-township-camden
+"Summit, Union County",40.7146376,-74.3646122,37,summit-union
+"Beach Haven, Ocean County",39.5592848,-74.2431962,36,beach-haven-ocean
+"Kenilworth, Union County",40.6764911,-74.2907032,36,kenilworth-union
+"Atlantic Highlands, Monmouth County",40.4078864,-74.034306,36,atlantic-highlands-monmouth
+"Florham Park, Morris County",40.787878,-74.3882072,35,florham-park-morris
+"Prospect Park, Passaic County",40.9370428,-74.1743111,35,prospect-park-passaic
+"New Milford, Bergen County",40.9350986,-74.0190281,35,new-milford-bergen
+"Haddon, Camden County",39.9105176,-75.0497448,35,haddon-camden
+"Bordentown, Burlington County",40.1462213,-74.7118264,35,bordentown-burlington
+"Logan Township, Gloucester County",39.7847179,-75.349185,35,logan-township-gloucester
+"Union Beach, Monmouth County",40.4464962,-74.1781988,35,union-beach-monmouth
+"Chatham boro, Morris County",40.740934,-74.3837624,34,chatham-boro-morris
+"Warren Township, Somerset County",40.6342489,-74.5004796,34,warren-township-somerset
+"Watchung, Somerset County",40.63788,-74.4509863,34,watchung-somerset
+"Franklin Boro, Sussex County",41.1220409,-74.5804378,33,franklin-boro-sussex
+"Byram, Sussex County",40.9601024,-74.7227291,33,byram-sussex
+"West Milford, Passaic County",41.1311292,-74.3673254,33,west-milford-passaic
+"Fanwood, Union County",40.6409358,-74.383484,33,fanwood-union
+"Montvale, Bergen County",41.0467635,-74.0229173,32,montvale-bergen
+"Woodstown, Salem County",39.6515027,-75.3282454,32,woodstown-salem
+"Lincoln Park, Morris County",40.9242652,-74.3020933,32,lincoln-park-morris
+"Raritan, Hunterdon County",40.5041636,-74.8974925,31,raritan-hunterdon
+"Sparta, Sussex County",41.0334562,-74.6363588,31,sparta-sussex
+"East Greenwich, Gloucester County",39.7975993,-75.2362381,31,east-greenwich-gloucester
+"East Rutherford, Bergen County",40.833989,-74.0970865,30,east-rutherford-bergen
+"Magnolia, Camden County",39.8545581,-75.0390591,29,magnolia-camden
+"Pitman, Gloucester County",39.732892,-75.1315651,29,pitman-gloucester
+"Englishtown, Monmouth County",40.2973319,-74.3582041,29,englishtown-monmouth
+"Delanco, Burlington County",40.0506669,-74.9535016,29,delanco-burlington
+"Hasbrouck Heights, Bergen County",40.8581553,-74.0806971,29,hasbrouck-heights-bergen
+"Piscataway, Middlesex County",40.554887,-74.4642861,29,piscataway-middlesex
+"Cresskill, Bergen County",40.9414874,-73.9593041,28,cresskill-bergen
+"Woodbury Heights, Gloucester County",39.817058,-75.1551776,28,woodbury-heights-gloucester
+"Shrewsbury, Monmouth County",40.3295547,-74.0615285,28,shrewsbury-monmouth
+"North Hanover, Burlington County",40.0723409,-74.5814773,27,north-hanover-burlington
+"Pemberton Boro, Burlington County",39.9720578,-74.6829363,27,pemberton-boro-burlington
+"Jamesburg, Middlesex County",40.3526079,-74.4401513,27,jamesburg-middlesex
+"Linwood, Atlantic County",39.3398382,-74.5751557,26,linwood-atlantic
+"Tuckerton, Ocean County",39.603174,-74.340145,26,tuckerton-ocean
+"Washington, Bergen County",40.9912886,-74.0597897,26,washington-bergen
+"Readington, Hunterdon County",40.5687141,-74.7376619,26,readington-hunterdon
+"New Providence, Union County",40.6984348,-74.4015405,25,new-providence-union
+"North Haledon, Passaic County",40.9550981,-74.1859781,25,north-haledon-passaic
+"Riverdale, Morris County",40.9939865,-74.3034823,25,riverdale-morris
+"Milltown, Middlesex County",40.4562164,-74.4432073,24,milltown-middlesex
+"Keyport, Monmouth County",40.4331631,-74.1995883,24,keyport-monmouth
+"Gibbsboro, Camden County",39.8381698,-74.9648887,24,gibbsboro-camden
+"Helmetta, Middlesex County",40.3767741,-74.4245952,24,helmetta-middlesex
+"Oaklyn, Camden County",39.9009465,-75.0846179,24,oaklyn-camden
+"Wanaque, Passaic County",41.0381525,-74.2940378,24,wanaque-passaic
+"Hamburg, Sussex County",41.1534294,-74.5762713,23,hamburg-sussex
+"Garwood, Union County",40.6517691,-74.3229264,23,garwood-union
+"Hardyston, Sussex County",41.1137037,-74.5540506,23,hardyston-sussex
+"Harding, Morris County",40.7397683,-74.511172,23,harding-morris
+"Cranbury, Middlesex County",40.3025907,-74.511172,23,cranbury-middlesex
+"Glen Rock, Bergen County",40.9628758,-74.1329207,23,glen-rock-bergen
+"Bernardsville, Somerset County",40.7187119,-74.569324,23,bernardsville-somerset
+"Monmouth Beach, Monmouth County",40.3303883,-73.9815262,22,monmouth-beach-monmouth
+"Palisades Park, Bergen County",40.8481556,-73.997639,22,palisades-park-bergen
+"Netcong, Morris County",40.8989877,-74.7065516,22,netcong-morris
+"Margate, Atlantic County",39.327894,-74.5034858,22,margate-atlantic
+"Lopatcong, Warren County",40.7127921,-75.1603752,22,lopatcong-warren
+"Butler, Morris County",41.0037087,-74.3415394,22,butler-morris
+"Lambertville, Hunterdon County",40.3659394,-74.9429448,21,lambertville-hunterdon
+"Millburn, Essex County",40.7340454,-74.3206696,21,millburn-essex
+"Pohatcong, Warren County",40.6333553,-75.1603752,21,pohatcong-warren
+"Oakland, Bergen County",41.0131529,-74.2643143,21,oakland-bergen
+"Upper Saddle River, Bergen County",41.0584299,-74.0984756,21,upper-saddle-river-bergen
+"Waldwick, Bergen County",41.0106528,-74.1179203,21,waldwick-bergen
+"Mountainside, Union County",40.6723242,-74.3573722,21,mountainside-union
+"Verona, Essex County",40.8298006,-74.2401609,21,verona-essex
+"Englewood Cliffs, Bergen County",40.8853773,-73.9523597,20,englewood-cliffs-bergen
+"Franklin Lakes, Bergen County",41.0167639,-74.2057011,20,franklin-lakes-bergen
+"Kinnelon, Morris County",41.0017644,-74.367096,20,kinnelon-morris
+"Harrison Township, Gloucester County",39.7296493,-75.207737,20,harrison-township-gloucester
+"Colts Neck, Monmouth County",40.2876108,-74.1723652,20,colts-neck-monmouth
+"Haddon Heights, Camden County",39.8773356,-75.0646165,19,haddon-heights-camden
+"Tenafly, Bergen County",40.9253766,-73.9629154,19,tenafly-bergen
+"Plumstead, Ocean County",40.0479478,-74.4760088,18,plumstead-ocean
+"Chester Twp, Morris County",40.7652883,-74.6985891,18,chester-twp-morris
+"South Hackensack, Bergen County",40.8625996,-74.0479182,18,south-hackensack-bergen
+"Morris Plains Boro, Morris County",40.8395922,-74.4818698,18,morris-plains-boro-morris
+"Hackettstown, Warren County",40.8539879,-74.8290555,18,hackettstown-warren
+"Washington, Morris County",40.7695876,-74.8039205,18,washington-morris
+"Merchantville, Camden County",39.9503838,-75.0479726,18,merchantville-camden
+"Spring Lake Boro, Monmouth County",40.1505348,-74.0447003,17,spring-lake-boro-monmouth
+"Hillsdale, Bergen County",41.0025975,-74.0404175,17,hillsdale-bergen
+"Spring Lake Heights, Monmouth County",40.1505348,-74.0447003,16,spring-lake-heights-monmouth
+"Leonia, Bergen County",40.8614887,-73.9881942,16,leonia-bergen
+"Haddonfield, Camden County",39.8915022,-75.0376707,16,haddonfield-camden
+"Avalon, Cape May County",39.101225,-74.7176622,16,avalon-cape-may
+"Ship Bottom, Ocean County",39.642897,-74.1804159,15,ship-bottom-ocean
+"Independence, Warren County",40.8893883,-74.8857989,15,independence-warren
+"Northfield City, Atlantic County",39.3703942,-74.5501546,15,northfield-city-atlantic
+"East Hanover, Morris County",40.8200623,-74.3647247,15,east-hanover-morris
+"Andover Township, Sussex County",41.0155479,-74.7295522,15,andover-township-sussex
+"Mendham Boro, Morris County",40.7759334,-74.6007142,14,mendham-boro-morris
+"Mount Arlington, Morris County",40.9259319,-74.6348828,14,mount-arlington-morris
+"River Edge, Bergen County",40.9287098,-74.0398622,14,river-edge-bergen
+"Rumson, Monmouth County",40.372054,-73.9990269,14,rumson-monmouth
+"Wenonah, Gloucester County",39.7945582,-75.1487883,13,wenonah-gloucester
+"Lavallette, Ocean County",39.9703958,-74.0687475,13,lavallette-ocean
+"High Bridge, Hunterdon County",40.6670454,-74.8957231,13,high-bridge-hunterdon
+"Closter, Bergen County",40.9731536,-73.9615262,13,closter-bergen
+"Brielle, Monmouth County",40.1078931,-74.0565263,13,brielle-monmouth
+"Mendham twp, Morris County",40.7870633,-74.5765686,12,mendham-twp-morris
+"Rockaway Boro, Morris County",40.9012101,-74.5143232,12,rockaway-boro-morris
+"Wood-ridge, Bergen County",40.8456555,-74.0879195,12,wood-ridge-bergen
+"Ho-Ho-Kus, Bergen County",40.9964864,-74.101253,12,ho-ho-kus-bergen
+"Ocean Gate, Ocean County",39.926785,-74.1337496,11,ocean-gate-ocean
+"Delaware, Hunterdon County",40.4307258,-74.9442585,11,delaware-hunterdon
+"Harvey Cedars, Ocean County",39.706231,-74.1340253,11,harvey-cedars-ocean
+"Saddle Brook, Bergen County",40.9040085,-74.1007318,11,saddle-brook-bergen
+"Pine Beach, Ocean County",39.9359515,-74.1709735,11,pine-beach-ocean
+"West Caldwell, Essex County",40.8409329,-74.3018154,11,west-caldwell-essex
+"Mullica, Atlantic County",39.5907851,-74.663464,11,mullica-atlantic
+"Bedminster, Somerset County",40.669264,-74.6804,10,bedminster-somerset
+"Allendale, Bergen County",41.0414857,-74.129032,10,allendale-bergen
+"Longport, Atlantic County",39.3142827,-74.5248756,10,longport-atlantic
+"Wallington, Bergen County",40.8531553,-74.1137537,9,wallington-bergen
+"Allenhurst, Monmouth County",40.2362236,-74.0006925,9,allenhurst-monmouth
+"Elk, Gloucester County",39.6644095,-75.1428632,9,elk-gloucester
+"Blairstown, Warren County",40.9831018,-74.9589405,9,blairstown-warren
+"Avon-By-the-Sea, Monmouth County",40.1923357,-74.0159703,9,avon-by-the-sea-monmouth
+"Medford Lakes, Burlington County",39.8623103,-74.8057734,9,medford-lakes-burlington
+"Woolwich, Gloucester County",39.737154,-75.3096289,9,woolwich-gloucester
+"Runnemede Boro, Camden County",39.8523358,-75.0679497,9,runnemede-boro-camden
+"Newfield, Gloucester County",39.5465044,-75.0248964,9,newfield-gloucester
+"Fair Haven, Monmouth County",40.3606653,-74.0381947,9,fair-haven-monmouth
+"Peapack gladstone, Somerset County",40.7167675,-74.6565489,9,peapack-gladstone-somerset
+"Old Tappan, Bergen County",41.010653,-73.9912493,8,old-tappan-bergen
+"Lower Alloways Creek, Salem County",39.4519933,-75.4577775,8,lower-alloways-creek-salem
+"Greenwich, Warren County",40.6826198,-75.1195107,8,greenwich-warren
+"Belvidere, Warren County",40.82982,-75.0776747,7,belvidere-warren
+"Laurel Springs, Camden County",39.8201141,-75.0062788,7,laurel-springs-camden
+"Island Heights, Ocean County",39.9420626,-74.1498616,7,island-heights-ocean
+"Allentown, Monmouth County",40.1778886,-74.5834887,7,allentown-monmouth
+"Roseland, Essex County",40.8206555,-74.2937594,7,roseland-essex
+"Berkeley Heights, Union County",40.6808726,-74.4310524,7,berkeley-heights-union
+"Mansfield, Burlington County",40.0713106,-74.7220017,7,mansfield-burlington
+"Eastampton, Burlington County",40.0033813,-74.756468,7,eastampton-burlington
+"Ridgefield, Bergen County",40.8342669,-74.0087505,6,ridgefield-bergen
+"Midland Park, Bergen County",40.9892643,-74.1406988,6,midland-park-bergen
+"Emerson, Bergen County",40.976209,-74.0262505,6,emerson-bergen
+"Boonton Township, Morris County",40.9293994,-74.4300912,6,boonton-township-morris
+"Chesterfield, Burlington County",40.1219081,-74.651754,6,chesterfield-burlington
+"West Amwell, Hunterdon County",40.3731071,-74.8857989,6,west-amwell-hunterdon
+"Surf City, Ocean County",39.6620638,-74.1651377,6,surf-city-ocean
+"North Caldwell, Essex County",40.8648215,-74.2582027,5,north-caldwell-essex
+"Woodcliff Lake, Bergen County",41.0234304,-74.0665297,5,woodcliff-lake-bergen
+"Long Hill, Morris County",40.6828892,-74.4935913,5,long-hill-morris
+"Ogdensburg, Sussex County",41.0817636,-74.5923824,5,ogdensburg-sussex
+"Bay Head, Ocean County",40.0717828,-74.0543036,5,bay-head-ocean
+"River Vale, Bergen County",41.0147679,-74.0119736,5,river-vale-bergen
+"Lebanon, Hunterdon County",40.6417683,-74.8359987,4,lebanon-hunterdon
+"Totowa, Passaic County",40.9050988,-74.2098679,4,totowa-passaic
+"Audubon, Camden County",39.8909466,-75.0729504,4,audubon-camden
+"Winfield, Union County",40.636214,-74.2884806,4,winfield-union
+"Riverton, Burlington County",40.0115009,-75.0148931,4,riverton-burlington
+"Oradell, Bergen County",40.9587093,-74.0368064,4,oradell-bergen
+"Haworth, Bergen County",40.9609315,-73.9901383,4,haworth-bergen
+"Moonachie, Bergen County",40.8412111,-74.0451405,4,moonachie-bergen
+"Chesilhurst, Camden County",39.7323384,-74.8809966,4,chesilhurst-camden
+"Town of Clinton, Hunterdon County",40.6367682,-74.90989,4,town-of-clinton-hunterdon
+"Springfield, Burlington County",40.0312267,-74.7220017,4,springfield-burlington
+"West Wildwood, Cape May County",39.0023352,-74.8243343,3,west-wildwood-cape-may
+"Chatham Twp, Morris County",40.7265893,-74.4172591,3,chatham-twp-morris
+"Alpine, Bergen County",40.9559316,-73.9312478,3,alpine-bergen
+"Harrington Park, Bergen County",40.9837089,-73.9798601,3,harrington-park-bergen
+"Norwood, Bergen County",40.9981532,-73.9618039,3,norwood-bergen
+"Mountain Lakes, Morris County",40.8948212,-74.4329314,2,mountain-lakes-morris
+"Frenchtown, Hunterdon County",40.5262138,-75.06156,2,frenchtown-hunterdon
+"Demarest, Bergen County",40.9573205,-73.9634708,2,demarest-bergen
+"East Newark, Hudson County",40.7497019,-74.1636313,2,east-newark-hudson
+"Saddle River, Bergen County",41.0317637,-74.1020866,2,saddle-river-bergen
+"Northvale, Bergen County",41.0064864,-73.9490258,2,northvale-bergen
+"Pennington Boro, Mercer County",40.3284402,-74.790718,1,pennington-boro-mercer
+"South Harrison, Gloucester County",39.7001137,-75.2579635,1,south-harrison-gloucester
+"Far Hills, Somerset County",40.684268,-74.6357148,1,far-hills-somerset
+"Essex Fells, Essex County",40.8245442,-74.2845925,1,essex-fells-essex
+"Montgomery, Somerset County",40.4329141,-74.663464,1,montgomery-somerset
+"Mantoloking, Ocean County",40.0392835,-74.0498585,1,mantoloking-ocean
